@@ -1,0 +1,34 @@
+{
+  "name": "count-words",
+  "version": "1.0.0",
+  "description": "Count how many times words appear in the input string.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/count-words.git"
+  },
+  "keywords": [
+    "count",
+    "words",
+    "object"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/count-words/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/count-words#readme",
+  "dependencies": {
+    "set-or-get": "^1.2.0",
+    "worder": "^1.0.0"
+  },
+  "devDependencies": {
+    "tester": "^1.3.0"
+  }
+}
