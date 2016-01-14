@@ -1,6 +1,6 @@
-# count-words [![Support this project][donate-now]][paypal-donations]
+# count-words [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/count-words.svg)](https://www.npmjs.com/package/count-words) [![Downloads](https://img.shields.io/npm/dt/count-words.svg)](https://www.npmjs.com/package/count-words) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Count how many times words appear in the input string.
+> Count how many times words appear in the input string.
 
 ## Installation
 
@@ -37,6 +37,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`count-words-array`](https://github.com/IonicaBizau/count-words-array#readme)
 
 ## License
 
