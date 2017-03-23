@@ -1,6 +1,6 @@
 {
   "name": "count-words",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Count how many times words appear in the input string.",
   "main": "lib/index.js",
   "directories": {
