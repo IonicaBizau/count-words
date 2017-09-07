@@ -1,6 +1,6 @@
 {
   "name": "count-words",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Count how many times words appear in the input string.",
   "main": "lib/index.js",
   "directories": {
@@ -41,6 +41,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
