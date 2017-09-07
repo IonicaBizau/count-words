@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Count how many times a word appears in the input string.
 
 #### Params
+
 - **String** `input`: The input string.
 - **Boolean** `caseInsensitive`: If `true`, the output will be case insensitive.
 
