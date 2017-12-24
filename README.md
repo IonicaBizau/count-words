@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save count-words
+# Using npm
+npm install --save count-words
+
+# Using yarn
+yarn add count-words
 ```
 
 
